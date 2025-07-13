@@ -1,0 +1,80 @@
+{
+    "personalData": {
+        "fullname": "Gerardo Alba",
+        "department": "Technical Engineer",
+        "addres": "773 NW Beachwood Loop, Jackson, MS, 69441",
+        "phone": "(978) 398-5215",
+        "email": "Ger.Alba@example.com"
+    },
+    "skills": "Html, Css, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation",
+    "education": [
+        {
+            "instituteName": "Nova Terra Technical University",
+            "duration": {
+                "start": "March 2019",
+                "end": "December 2023"
+            },
+            "thingsIDid": [
+                "Led an AI project to detect banking fraud.",
+                "Organized a university hackathon with over 150 participants.",
+                "Completed an international internship collaborating with students from Japan anvd Germany."
+            ]
+        },
+        {
+            "instituteName": "PixelForge Digital Academy",
+            "duration": {
+                "start": "January 2022",
+                "end": "November 2022"
+            },
+            "thingsIDid": [
+                "Developed my first video game in Unity with custom assets and animations.",
+                "Served as an assistant mentor in the UI/UX design module.",
+                "Won the monthly challenge for creating responsive landing pages."
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "companyName": "NebulaSoft Inc.",
+            "location": "San Francisco",
+            "role": "Frontend Developer",
+            "durarition": {
+                "start": "May 2021",
+                "end": "October 2023"
+            },
+            "achievements": [
+                "Rebuilt the company’s main dashboard using React and Tailwind CSS.",
+                "Reduced load time by 45% through advanced performance optimizations.",
+                "Led the frontend migration to a micro-frontend architecture."
+            ],
+            "skillsAcquired": [
+                "Deepened expertise in React, performance tuning, and state management with Redux.",
+                "Collaborated closely with backend engineers using REST and GraphQL APIs.",
+                "Strengthened agile workflow and team communication in sprint cycles."
+            ]
+        },
+        {
+            "companyName": "Krypton Design Studio",
+            "location": "Berlin",
+            "role": "UI/UX Designer",
+            "durarition": {
+                "start": "March 2020",
+                "end": "February 2022"
+            },
+            "achievements": [
+                "Designed mobile-first interfaces for 10+ e-commerce clients.",
+                "Won \"Best User Experience\" award for a health-tech app project",
+                "Introduced an internal design system adopted across the company."
+            ],
+            "skillsAcquired": [
+                "Mastered Figma, Adobe XD, and usability testing methodologies.",
+                "Improved client communication and design pitch presentations.",
+                "Learned to align design goals with business KPIs and user feedback."
+            ]
+        }
+    ],
+    "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+    }
+}
