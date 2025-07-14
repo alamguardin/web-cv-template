@@ -38,7 +38,7 @@
             "companyName": "NebulaSoft Inc.",
             "location": "San Francisco",
             "role": "Frontend Developer",
-            "durarition": {
+            "duration": {
                 "start": "May 2021",
                 "end": "October 2023"
             },
@@ -57,7 +57,7 @@
             "companyName": "Krypton Design Studio",
             "location": "Berlin",
             "role": "UI/UX Designer",
-            "durarition": {
+            "duration": {
                 "start": "March 2020",
                 "end": "February 2022"
             },
