@@ -1,0 +1,59 @@
+:root {
+    --gray-950: #030712;
+    --gray-800: #1e2939;
+    --gray-600: #4a5565;
+
+    font-size: 16px;
+    font-family: 'Satoshi', sans-serif;
+    ;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: radial-gradient(circle at center, #FFFDE1 0%, #F6E2FF 50%, #FCF6FF 100%);
+    mix-blend-mode: multiply;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 4.5rem;
+    color: var(--gray-950);
+}
+
+h2 {
+    font-size: 3rem;
+    color: var(--gray-800);
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: var(--gray-800);
+}
+
+h4 {
+    font-size: 1.125rem;
+    color: var(--gray-800);
+}
+
+p,
+li,
+span {
+    font-size: 1.125rem;
+    color: var(--gray-600);
+}

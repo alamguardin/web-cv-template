@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
     <div>
       <h3>${item.companyName}, ${item.location} – ${item.role}</h3>
       <p>${item.duration.start} to ${item.duration.end}</p>
-      <h4>Key Achievements:<h4>
+      <h4>Key Achievements:</h4>
       ${(item.achievements.map((value) => `<li>${value}</li>`)).join("")}
       <h4>Skills Used/Acquired:</h4>
       ${(item.skillsAcquired.map((value) => `<li>${value}</li>`)).join("")}
